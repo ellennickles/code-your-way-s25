@@ -23,14 +23,16 @@ Steps to start reverse engineering sketches:
       triggers.
     - Summarize your observations into a list of plain-language steps that
       describe how you think the sketch works behind the scenes.
-3. **Investigate** • Compare your pseudocode to the actual source code. Tinker
-   with the source code to identify specific lines or blocks of code that align
-   with your pseudocode. Ask yourself: Does this confirm or challenge what I
-   expected?
-    - Change function parameters and variable values in substantial ways.
-    - Comment out parts of the code to see what happens.
-    - If you're unsure, consider consulting the provided resources or using AI
-      tools to clarify unfamiliar code concepts.
+3. **Investigate** • Compare your pseudocode to the actual source code. Explore
+   the code to identify specific lines or blocks that align with your
+   predictions. Ask yourself: Does this confirm or challenge what I expected?
+   Experiment with the code to deepen your understanding:
+    - Modify function parameters and variable values significantly to observe
+      the effects.
+    - Comment out sections of the code to see how the sketch behaves without
+      them.
+    - If something is unclear, consult the provided resources or use AI tools to
+      help clarify unfamiliar concepts or syntax.
 4. **Annotate** • Duplicate the sketch into your own p5 account and add comments
    to explain what each part of the code does. i.e. Can you tell the story of
    the program?
@@ -41,8 +43,10 @@ Steps to start reverse engineering sketches:
       distance from the origin of the canvas.
     - If you're stuck, write down specific questions for later review.
 5. **Modify** • Experiment with the code to make it your own! Use this step to
-   play and learn and reinforce your understanding. Make it your own; modify the
-   code in some way to make it distinct from the original. If something feels tricky or unfamiliar, start there—it’s a great way to deepen your understanding.
+   explore, play, and reinforce your understanding of how the sketch works.
+   Change the code in a way that makes it distinct from the original, reflecting
+   your own ideas. If something feels tricky or unfamiliar, start there—it’s
+   an opportunity to deepen your understanding. Ways to experiment:
     - Change visual elements like color, scale, or speed to see what happens.
     - Reorganize or rewrite parts of the code to simplify or extend its
       functionality.

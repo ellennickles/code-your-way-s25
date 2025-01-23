@@ -10,7 +10,7 @@ of the Arts • Spring 2025
 | Meeting Time   | Mon 9:30am - 12:00pm ET|
 | Location   | 370 Jay Street Brooklyn • Room 407 |
 | Contact | [ellen.nickles@nyu.edu](mailto:ellen.nickles@nyu.edu)<br>On weekdays I aim to respond within 24 hours between 8:00am - 5:00pm |
-| Student Hours  | Mon 1:00pm – 4:00pm<br>[Sign up here](https://calendar.app.google/i4SnibxGzXeBxrLm8) or email for other times |
+| Student Hours  | Monday 1:00pm – 4:00pm<br>[Sign up here](https://calendar.app.google/i4SnibxGzXeBxrLm8) or email for other times |
 | Extra Support | [Resident office hours](https://itp.nyu.edu/help/office-hours/) (schedule) <br>[The Coding Lab](https://codinglab.itp.io/) (schedule or drop-in help)<br>[How to ask code-related questions](https://github.com/ITPNYU/ICM-2021-Code/wiki/Example-Questions) | 
 | Quick Links  | [Submit assignments](https://forms.gle/CJZMpMpTeDxpvWv18)<br>[Assignment responses](https://docs.google.com/spreadsheets/d/1gvVzgtCL_ACHjoUSuuAOBv0vx4zxKjRiKnflDdWf2Ok/edit?resourcekey=&gid=534461210#gid=534461210)<br>[Our Miro Board](https://tinyurl.com/cyw25-miro)<br>[Our Google Drive folder](https://drive.google.com/drive/folders/1HC5g1BO8moptbtgz-JwVVv9DldnW3Q_U?usp=drive_link)|
 
@@ -283,7 +283,7 @@ and participants to discuss possible accommodations that would best support
 their learning with faculty and staff.  Students may also contact the Moses
 Center for Student Accessibility (212-998-4980) for resources and support.
 
-(Link to the Moses Center for Student Accessibility](https://www.nyu.edu/students/communities-and-groups/student-accessibility.html)
+[Link to the Moses Center for Student Accessibility](https://www.nyu.edu/students/communities-and-groups/student-accessibility.html)
 
 #### Counseling and Wellness
 

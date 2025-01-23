@@ -77,7 +77,7 @@ to reverse engineer these sketches:
 - Make a plan with pseudocode. Write / draw an outline to guide you through the
   steps. It’s okay if you pivot from the original plan, the idea is to apply
   this approach to reverse engineer the algorithm.
-- Practice reading and writing your own code and try not use an AI to help you;
+- UPDATE??? Practice reading and writing your own code and try not use an AI to help you;
   we'll get there soon enough. Remember that this course values critical
   reflection of process over product.
 - Embrace experimentation and getting stuck. Related quote from Rick Rubin in

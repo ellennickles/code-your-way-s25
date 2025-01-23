@@ -45,7 +45,9 @@ Steps to start reverse engineering sketches:
 5. **Modify** • Experiment with the code to make it your own! Use this step to
    explore, play, and reinforce your understanding of how the sketch works.
    Change the code in a way that makes it distinct from the original, reflecting
-   your own ideas. If something feels tricky or unfamiliar, start there—it’s
+   your own ideas. Perhaps start with small modifications, such as adjusting a
+   single variable or parameter to gain momentum before attempting larger
+   changes. If something feels tricky or unfamiliar, start there—it’s
    an opportunity to deepen your understanding. Ways to experiment:
     - Change visual elements like color, scale, or speed to see what happens.
     - Reorganize or rewrite parts of the code to simplify or extend its

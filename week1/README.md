@@ -8,6 +8,12 @@
   Complete](https://bobcat.library.nyu.edu/primo-explore/fulldisplay?docid=nyu_aleph005835845&context=L&vid=NYU&lang=en_US&search_scope=all&adaptor=Local%20Search%20Engine&isFrbr=true&tab=all&query=any,contains,code%20complete&sortby=date&facet=frbrgroupid,include,1147872474&offset=0),
   2nd Edition, by Steve McConnell (NYU Library online access > wait for O'Reilly
   to automatically log in)
+- [Rafaël Rozendaal](https://www.newrafael.com) | [Light @
+  MoMA](https://www.moma.org/calendar/exhibitions/5774?) | Interview: [The
+  Unbearable Lightness of Being
+  Online](https://www.moma.org/magazine/articles/1158)
+- Pseudocode Rozendaal [Only
+  Suddenly](https://editor.p5js.org/enickles/sketches/EPiE4dWyI)
 
 ## Assignment
 
@@ -77,7 +83,7 @@ to reverse engineer these sketches:
 - Make a plan with pseudocode. Write / draw an outline to guide you through the
   steps. It’s okay if you pivot from the original plan, the idea is to apply
   this approach to reverse engineer the algorithm.
-- UPDATE??? Practice reading and writing your own code and try not use an AI to help you;
+- Practice reading and writing your own code and try not use an AI to help you;
   we'll get there soon enough. Remember that this course values critical
   reflection of process over product.
 - Embrace experimentation and getting stuck. Related quote from Rick Rubin in

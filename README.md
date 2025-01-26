@@ -20,7 +20,7 @@ of the Arts • Spring 2025
 
 | Date | Week | Assignment |
 | :--- | :--- | :--- |
-| Jan 27 | Week 1 | Pseudocoding / Looping Animations |
+| Jan 27 | Week 1 | [Pseudocoding / Looping Animations](https://github.com/ellennickles/code-your-way-s25/tree/main/week1) |
 | Feb 3 | Week 2 | Debugging / Visual Studio Code / Unpredictability |
 | Feb 10 | Week 3 | Pair Programming / GitHub Copilot / Iterative Patterns 1 |
 | Feb 17 | No Class | Presidents’ Day |

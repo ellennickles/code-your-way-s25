@@ -21,8 +21,8 @@ of the Arts • Spring 2025
 | Date | Week | Assignment |
 | :--- | :--- | :--- |
 | Jan 27 | Week 1 | Pseudocoding / Looping Animations |
-| Feb 3 | Week 2 | Debugging / Unpredictability |
-| Feb 10 | Week 3 | Pair Programming / Iterative Patterns 1 |
+| Feb 3 | Week 2 | Debugging / Visual Studio Code / Unpredictability |
+| Feb 10 | Week 3 | Pair Programming / GitHub Copilot / Iterative Patterns 1 |
 | Feb 17 | No Class | Presidents’ Day |
 | Feb 18 | Week 4 | (Tuesday) Version Control 1 / Iterative Patterns 2 |
 | Feb 24 | Week 5 | Version Control 2 / Parametric Geometries |

@@ -209,8 +209,8 @@ an assignment; if an AI tool violates intellectual property laws or contain
 misinformation or unethical content, it is your responsibility to find and fix
 the errors before submitting. When you use generative AI tools for any part of
 your assignment (from idea generation to code generation to program debugging),
-document how and why you used the tool in accordance with our Citation
-Guidelines [ADD LINK].
+document how and why you used the tool in accordance with our [Citation
+Guidelines](https://github.com/ellennickles/code-your-way-s25/blob/main/README.md#citation-guidelines).
 
 *Adapted from the [NYU Faculty Use of Generative AI in Coursework:
 Frequently Asked Questions](https://t.e2ma.net/click/w9j5ci/ozu8bgf/4fuzym) (PDF) and related university resources: [Instructor Generative
@@ -220,7 +220,7 @@ AI](https://www.nyu.edu/faculty/teaching-and-learning-resources/Student-Learning
 
 #### Citation Guidelines
 
-In accordance with the Statement of Academic Integrity [ADD LINK], you are expected to cite your sources and note how you used them. For code references, a link to the online source along with a brief description will suffice. If you use any generative AI tools, e.g. ChatGPT, Claude, Gemini, Copilot, etc., please include the model name and version with description of why and how you used the tool.
+In accordance with the [Statement of Academic Integrity](https://github.com/ellennickles/code-your-way-s25/blob/main/README.md#academic-integrity), you are expected to cite your sources and note how you used them. For code references, a link to the online source along with a brief description will suffice. If you use any generative AI tools, e.g. ChatGPT, Claude, Gemini, Copilot, etc., please include the model name and version with description of why and how you used the tool.
 
 #### Participation
 

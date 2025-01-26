@@ -46,12 +46,12 @@ of the Arts • Spring 2025
   Description](https://github.com/ellennickles/code-your-way-s25#course-description)
 - [Learning
   Objectives](https://github.com/ellennickles/code-your-way-s25#learning-objectives)
-- [Format](https://github.com/ellennickles/code-your-way-s24#format)
+- [Format](https://github.com/ellennickles/code-your-way-s25#format)
 - [Community
   Guidelines](https://github.com/ellennickles/code-your-way-s25#community-guidelines)
 - [Communication and Support](https://github.com/ellennickles/code-your-way-s25#communication-and-support)
 - [Assessment and
-  Evaluation](https://github.com/ellennickles/code-your-way-s24#assessment-and-evaluation)
+  Evaluation](https://github.com/ellennickles/code-your-way-s25#assessment-and-evaluation)
 - [Policies](https://github.com/ellennickles/code-your-way-s25#policies)
 - [Statements](https://github.com/ellennickles/code-your-way-s25#statements)
 

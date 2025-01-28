@@ -34,7 +34,7 @@ to reverse engineer these sketches:
 - [Encode 2](https://editor.p5js.org/enickles/full/MmeQGtwMD)
 - [Encode 3](https://editor.p5js.org/enickles/full/Vdbb10E_x)
 - [Encode 4](https://editor.p5js.org/enickles/full/Ia5UitZe-)
-- [Encode 5](https://editor.p5js.org/enickles/full/2pj-IIxtr)
+- [Encode 5](https://editor.p5js.org/enickles/full/2pj-IIxtr) (updated)
 
 #### Resources
 

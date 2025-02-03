@@ -2,6 +2,7 @@
 
 - [Class
   Slides](https://drive.google.com/drive/folders/1HC5g1BO8moptbtgz-JwVVv9DldnW3Q_U?usp=sharing)
+- [In-class code tracing example](https://editor.p5js.org/enickles/sketches/rqjScpXGp) from Ellen
 - [A Brief Introduction to Debugging Parts
   1-4](https://vimeo.com/channels/debugging) (p5 is not mentioned, but these
   strategies are universal for all programming languages) ~15min

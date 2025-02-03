@@ -20,6 +20,7 @@
   by Steve McConnell (NYU Library online access)
 - [Frieder Nake: The Beginnings of Digital Art](https://vimeo.com/645548103)
   ~7min
+- Install [Visual Studio Code](https://code.visualstudio.com/)
 
 ## Assignment
 

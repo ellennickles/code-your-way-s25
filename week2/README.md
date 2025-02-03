@@ -108,7 +108,7 @@ explanations and examples of these p5.js functions, and then:
 ### Part 3: Document
 
 - Document your work. Link to your sketches from Parts 1 and 2. Copy and paste
-  any code from VS Code into the p5 web editor, so you can link to your
+  any code from Visual Studio Code into the p5 web editor, so you can link to your
   sketches. I know this is redundant, but for now this is the easiest way to
   share.
 - Same as last week: reflect on the discoveries and challenges you encountered

@@ -98,7 +98,7 @@ explanations and examples of these p5.js functions, and then:
   etc.? Can you animate your sketch or make responsive/interactive? What
   functions and techniques can you continue to practice from the previous week’s exercises?
 - If it helps, make a plan before you start (pseudocode).
-- Work in VS Code to start getting used to this environment.
+- Work in Visual Studio Code to start getting used to this environment.
 - Possible inspiration
   - Featured artists in the Class Slides
   - [Working with Color in Generative

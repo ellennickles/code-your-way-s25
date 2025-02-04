@@ -19,5 +19,3 @@ function setup() {
     square(x, y, amount * i);
   }
 }
-
-function draw() {}

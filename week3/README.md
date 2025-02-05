@@ -24,17 +24,17 @@
   - NYTimes Hard Fork Podcast Episode 118, from Jan 17, 2025 regarding [A.I.’s
     Environmental Impact @
     00:29:51](https://youtu.be/M6H37yRIuWw?t=1794)
-  - Visual Studio Code Docs
-    - [GitHub Copilot in VS Code](https://code.visualstudio.com/docs/copilot/overview)
-    - [Get started in Visual Studio
-      Code](https://github.com/features/copilot/tutorials)
-  - GitHub Docs
-    - [GitHub Copilot documentation](https://docs.github.com/en/copilot)
-    - Blog [Using GitHub Copilot in your IDE: Tips, tricks, and best
-      practices](https://github.blog/developer-skills/github/how-to-use-github-copilot-in-your-ide-tips-tricks-and-best-practices/)
-    - Blog [How to write better prompts for GitHub
-      Copilot](https://github.blog/developer-skills/github/how-to-write-better-prompts-for-github-copilot/)
-  
+  - GitHub Copilot
+    - Visual Studio Code Docs: [GitHub Copilot in VS Code](https://code.visualstudio.com/docs/copilot/overview)
+    - GitHub Docs
+      - [GitHub Copilot documentation](https://docs.github.com/en/copilot)
+      - [Quick Video Tutorials](https://github.com/features/copilot/tutorials)
+      - Blog 
+        [How to write better prompts for GitHub
+        Copilot](https://github.blog/developer-skills/github/how-to-write-better-prompts-for-github-copilot/)
+      - Blog [Using GitHub Copilot in your IDE: Tips, tricks, and best
+        practices](https://github.blog/developer-skills/github/how-to-use-github-copilot-in-your-ide-tips-tricks-and-best-practices/)
+
 ## Assignment
 
 ### Part 1: Practice

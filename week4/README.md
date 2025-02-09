@@ -28,9 +28,11 @@
     @[moving.drawing](https://www.instagram.com/p/CViWcLSFNT9/) and the
     [Delicate
     Chaos](https://delicatechaos.cezar.io/p/introducing-delicate-chaos) project
-- Version Control 1: [Command Line
+- Version Control 1:
+  - [Command Line
   Introduction](https://github.com/ellennickles/code-your-way-s25/blob/main/version-control-guides/commandline.md)
-
+  - [Tip and
+    Tricks](https://github.com/ellennickles/code-your-way-s25/blob/main/version-control-guides/tips-and-tricks.md)
   
 ## Assignment
 
@@ -70,7 +72,22 @@ visual pattern(s). Your choice:
   are other ways to demonstrate a shift? Just some ideas to get started, in
   addition to those in the Class Slides.
 
-### Part 3: Document
+### Part 3: Command Line Scavenger Hunt
+
+- Keep building your muscle memory with the command line and design a command
+  line scavenger hunt for your classmates. Choose a creative theme—like a spaceship, castle, haunted house, or any setting you
+  like. Your hunt will help others practice navigating directories and files
+  while uncovering treasures (and maybe a few surprises).
+- Requirements
+  - Create **4 to 6 rooms** (directories/folders) for your scavenger hunt
+  - Hide at least **2 treasures** (text files with clues, story pieces, or
+    codes) and **1 danger** (a spooky twist, red herring, or warning)
+  - Maybe add extra challenges, like secret rooms (nested folders) or decoy
+    files or folders with misleading names to throw off your classmates and keep
+    them on their toes.
+- We’ll play each other’s scavenger hunts in class next week. Have fun with it!
+
+### Part 4: Document
 
 - Document your work. Copy and paste any code from VS Code into the p5 web
   editor, so you can link to your sketches. I know this is redundant, but for

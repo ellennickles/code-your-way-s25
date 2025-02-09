@@ -99,7 +99,8 @@ and analyze the input code and predict the visual output:
 - Possible inspiration:
   - Featured artists in the Class Slides
   - [Saskia Freeke](https://sasj.nl/portfolio/)
-  - [Anna Carreras](https://www.annacarreras.com/) | [Instagram](https://www.instagram.com/annaluciacodes)
+  - [Anna Carreras](https://www.annacarreras.com/) |
+    [Instagram](https://www.instagram.com/annaluciacodes)
   - [Anna Lucia](https://twitter.com/annaluciacodes)
   - [Raphaël de Courville](https://twitter.com/sableraph) |
     [Linktree](https://linktr.ee/sableraph)

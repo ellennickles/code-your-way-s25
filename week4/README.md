@@ -26,7 +26,11 @@
     Zhou](https://editor.p5js.org/enickles/full/uJHDQVkWx)
   - [Cezar Mocan's](https://www.instagram.com/cezarmocan/) Generative Art
     @[moving.drawing](https://www.instagram.com/p/CViWcLSFNT9/) and the
-    [Delicate Chaos](https://delicatechaos.cezar.io/p/introducing-delicate-chaos) project
+    [Delicate
+    Chaos](https://delicatechaos.cezar.io/p/introducing-delicate-chaos) project
+- Version Control 1: [Command Line
+  Introduction](https://github.com/ellennickles/code-your-way-s25/blob/main/version-control-guides/commandline.md)
+
   
 ## Assignment
 

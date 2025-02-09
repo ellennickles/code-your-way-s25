@@ -29,7 +29,7 @@
     - GitHub Docs
       - [GitHub Copilot documentation](https://docs.github.com/en/copilot)
       - [Quick Video Tutorials](https://github.com/features/copilot/tutorials)
-      - Blog 
+      - Blog
         [How to write better prompts for GitHub
         Copilot](https://github.blog/developer-skills/github/how-to-write-better-prompts-for-github-copilot/)
       - Blog [Using GitHub Copilot in your IDE: Tips, tricks, and best

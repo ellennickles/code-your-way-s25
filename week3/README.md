@@ -122,6 +122,7 @@ and analyze the input code and predict the visual output:
   - Adding animation or interaction
   - Introducing random variations in shape, size, or color
   - Transforming the pattern(s) using rotations or translations
+- Our prompting best practices from class are posted [here](https://docs.google.com/presentation/d/1SqPsTqoaC79kqSUfFKZlRV9K5EKHt4RwmpDykUbZOZQ/edit#slide=id.g2d8aea1fbec_0_119) and [here](https://docs.google.com/presentation/d/1SqPsTqoaC79kqSUfFKZlRV9K5EKHt4RwmpDykUbZOZQ/edit#slide=id.g2d8aea1fbec_0_125).
 
 ### Part 4: Document
 

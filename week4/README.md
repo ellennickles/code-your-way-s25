@@ -36,8 +36,6 @@
   
 ## Assignment
 
-Due next Monday night before class (we next meet Tuesday, Feb 18)
-
 ### Part 1: Practice
 
 Some of these are tricky. Do the best you can to get a sense of the logical and

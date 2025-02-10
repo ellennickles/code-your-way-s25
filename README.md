@@ -22,7 +22,7 @@ of the Arts • Spring 2025
 | :--- | :--- | :--- |
 | Jan 27 | Week 1 | [Pseudocoding / Looping Animations](https://github.com/ellennickles/code-your-way-s25/tree/main/week1) |
 | Feb 3 | Week 2 | [Debugging / Visual Studio Code / Unpredictability](https://github.com/ellennickles/code-your-way-s25/tree/main/week2) |
-| Feb 10 | Week 3 | Pair Programming / GitHub Copilot / Iterative Patterns 1 |
+| Feb 10 | Week 3 | [Pair Programming / GitHub Copilot / Iterative Patterns 1](https://github.com/ellennickles/code-your-way-s25/tree/main/week3) |
 | Feb 17 | No Class | Presidents’ Day |
 | Feb 18 | Week 4 | (Tuesday) Version Control 1 / Iterative Patterns 2 |
 | Feb 24 | Week 5 | Version Control 2 / Parametric Geometries |

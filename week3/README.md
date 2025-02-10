@@ -37,6 +37,9 @@
 
 ## Assignment
 
+- Due next Monday night, Feb 17.
+- No class on Monday (it's Presidents’ Day)! We will meet on Tuesday, Feb 18.
+
 ### Part 1: Practice
 
 Assemble and modify:

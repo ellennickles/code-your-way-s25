@@ -105,6 +105,13 @@ and analyze the input code and predict the visual output:
   - [Raphaël de Courville](https://twitter.com/sableraph) |
     [Linktree](https://linktr.ee/sableraph)
   - [The Generative Artist Club](https://www.genartclub.com/showcase)
+  - [Manolo Gamboa Naon](https://www.behance.net/manoloide#) - thanks, B!
+  - [Art Blocks: The Curated Collection](https://www.artblocks.io/marketplace/category/art-blocks-curated) - thanks, Han!
+  - Student examples:
+    - [Siqi](https://editor.p5js.org/enickles/full/PfRdRlwJi)
+    - [Jasmine](https://editor.p5js.org/enickles/full/7o486SkI-)
+    - [Fiona W](https://editor.p5js.org/enickles/full/H-6TkHyHX)
+    - [Yian](https://editor.p5js.org/enickles/full/2MvpYKpF1)
 
 ### Part 3: AI Experimentation
 

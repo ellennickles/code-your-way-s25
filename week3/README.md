@@ -10,7 +10,7 @@
   - Extreme Programming: [Pair Programming Lessons
     Learned](http://www.extremeprogramming.org/stories/pair.html)
   - [All I Really Need to Know about Pair Programming I Learned In
-    Kindergarten](https://drive.google.com/drive/folders/1iH0ERUaMkSCn_7A9F4bnBWwMHJmu04ak?usp=sharing)
+    Kindergarten](https://drive.google.com/drive/u/1/folders/1HC5g1BO8moptbtgz-JwVVv9DldnW3Q_U)
     by Laurie A. Williams and  Robert R. Kessler, 1999
 - Pair Programming with AI
   - [The second wave of AI coding is

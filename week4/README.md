@@ -7,12 +7,12 @@
 - [RGB Mixer](https://editor.p5js.org/enickles/full/uB9PBM-w4), [HSB
   Mixer](https://editor.p5js.org/enickles/full/yHAvJuEuB)
 - Review arrays
-  - [Part 1](https://editor.p5js.org/enickles/sketches/F6zHXMyZZ)
-  - [Part 2](https://editor.p5js.org/enickles/sketches/kRdx-mV6z)
-  - [Part 3](https://editor.p5js.org/enickles/sketches/O34L-C776) (custom
+  - [Part 1](https://editor.p5js.org/enickles/sketches/GdWxLWUt5)
+  - [Part 2](https://editor.p5js.org/enickles/sketches/f2HhMoulN)
+  - [Part 3](https://editor.p5js.org/enickles/sketches/FmdzqkLp-) (custom
     palette generator)
 - Review functions
-  - [Review functions](https://editor.p5js.org/enickles/sketches/wnOgIFj1f)
+  - [Review functions](https://editor.p5js.org/enickles/sketches/fMlQVRlEG)
   - [Review functions with nested
     loop (grid)](https://editor.p5js.org/enickles/sketches/bTvU9p4pM)
 - [Joan Truckenbrod: Punch cards to computer](https://vimeo.com/286992423) (video)
@@ -67,15 +67,14 @@ visual pattern(s). Your choice:
   “order” on the left and “chaos” on the right (prompt from _Code as a Creative
   Medium_)? Can you extend an example or self-designed sketch from previous
   weeks with this week’s theme. If you worked with gradients in the past, what
-  are other ways to demonstrate a shift? Just some ideas to get started, in
-  addition to those in the Class Slides.
+  are other ways to demonstrate a shift? These are just some ideas to get started, in  addition to those in the Class Slides.
 
 ### Part 3: Command Line Scavenger Hunt
 
 - Keep building your muscle memory with the command line and design a command
   line scavenger hunt for your classmates. Choose a creative theme—like a spaceship, castle, haunted house, or any setting you
   like. Your hunt will help others practice navigating directories and files
-  while uncovering treasures (and maybe a few surprises).
+  while uncovering treasures and maybe a few surprises!
 - Requirements
   - Create **4 to 6 rooms** (directories/folders) for your scavenger hunt
   - Hide at least **2 treasures** (text files with clues, story pieces, or

@@ -75,14 +75,16 @@ visual pattern(s). Your choice:
   line scavenger hunt for your classmates. Choose a creative theme—like a spaceship, castle, haunted house, or any setting you
   like. Your hunt will help others practice navigating directories and files
   while uncovering treasures and maybe a few surprises!
-- Requirements
+- Minimum requirements
   - Create **4 to 6 rooms** (directories/folders) for your scavenger hunt
   - Hide at least **2 treasures** (text files with clues, story pieces, or
     codes) and **1 danger** (a spooky twist, red herring, or warning)
   - Maybe add extra challenges, like secret rooms (nested folders) or decoy
     files or folders with misleading names to throw off your classmates and keep
     them on their toes.
-- We’ll play each other’s scavenger hunts in class next week. Have fun with it!
+- We’ll play each other’s scavenger hunts in class next week.
+- Title the main directory with your name and it to our Google Drive folder
+  here: [Week 4 • Command line scavenger hunts](https://drive.google.com/drive/u/1/folders/1AFatQo1Bni08vGxkLeLO0665Mi8jliQf)
 
 ### Part 4: Document
 

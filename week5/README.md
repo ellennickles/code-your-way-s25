@@ -18,7 +18,8 @@
 
 Don't worry if you haven't worked with algebra and trigonometry in a long time!
 Just tinker and have fun with the equations in the code examples and perhaps use
-GitHub Copilot to help you. This week is more about getting used to implementing version control with Git using a command line interface.
+GitHub Copilot to help you. This week is more about getting used to implementing
+version control with Git using the command line interface.
 
 ### Part 1: Explore and Experiment
 
@@ -71,10 +72,9 @@ interactive, and/or combine it with a previous sketch.
 - Develop a local p5 project on your computer in VS Code, and program your own
   full screen screensaver. (Hmmm... coming full circle to Week 1's preloaders?)
   Further extend one of your modified examples above or combine some.
-  - Using the command line, navigate into the p5 project directory and
+- Using the command line, navigate into the p5 project directory and
     initialize it as a Git repository.
-  - Use our [Git
-    Intro](https://github.com/ellennickles/code-your-way-s25/blob/main/version-control-guides/git.md)
+- Use our [Git Intro](https://github.com/ellennickles/code-your-way-s25/blob/main/version-control-guides/git.md)
     and/or our [Week 5 Class
     Slides](https://drive.google.com/drive/u/1/folders/1HC5g1BO8moptbtgz-JwVVv9DldnW3Q_U)
     from this week as references and try:
@@ -118,14 +118,14 @@ interactive, and/or combine it with a previous sketch.
     [Harmonograph](https://en.wikipedia.org/wiki/Harmonograph), a mechanical
     device that employs a pendulum to generate images"
 
-### Part 3: Document - UPDATE TO MENTION AI!!!
+### Part 3: Document
 
 - Document your work. Copy and paste any code from VS Code into the p5 web
   editor, so you can link to your sketches in your documentation. I know, I know
   this is getting super redundant, but it's still the easiest way to share.
 - Reflect on the discoveries and challenges you encountered with the code
   exercises **and also with your new workflow using the command line interface
-  and Git**. Where did you get stuck, and what steps did you take troubleshoot?
+  with Git for version control**. Where did you get stuck, and what steps did you take troubleshoot?
   What would you like to explore and practice more?
 - [Submit here](https://forms.gle/CJZMpMpTeDxpvWv18)
 

@@ -66,7 +66,7 @@ visual pattern(s). Your choice:
   interactive sketch that maps order to chaos based on the mouse position, e.g.
   “order” on the left and “chaos” on the right (prompt from _Code as a Creative
   Medium_)? Can you extend an example or self-designed sketch from previous
-  weeks with this week’s theme. If you worked with gradients in the past, what
+  weeks with this week’s theme? If you worked with gradients in the past, what
   are other ways to demonstrate a shift? These are just some ideas to get started, in  addition to those in the Class Slides.
 
 ### Part 3: Command Line Scavenger Hunt
@@ -91,6 +91,8 @@ visual pattern(s). Your choice:
   now this is the easiest way to share.
 - Same as last week: reflect on the discoveries and challenges you encountered
   during the exercises. What graphic or animation effects are most pleasing to
-  you? Where did you get stuck, and what steps did you take to troubleshoot?
-  What code-related techniques would you like to explore and practice more?
+  you? Where did you get stuck, and what steps did you take to troubleshoot? If
+  you debugged or extended your code with GitHub Copilot, reflect on your
+  discoveries and challenges, noting where AI was helpful or limiting. Are there
+  any code-related techniques that would you like to explore and practice more?
 - [Submit here](https://forms.gle/CJZMpMpTeDxpvWv18)

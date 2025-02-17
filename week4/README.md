@@ -62,12 +62,17 @@ visual pattern(s). Your choice:
 - Extending our work with loops and patterns (our last week of grids?!),
   progression is the theme this week: how can you represent continuous change(s)
   within the composition color, position, size, speed, etc. and/or over time? Is
-  the quality of change gradual or uneven? For example, can you make an
-  interactive sketch that maps order to chaos based on the mouse position, e.g.
-  “order” on the left and “chaos” on the right (prompt from _Code as a Creative
-  Medium_)? Can you extend an example or self-designed sketch from previous
-  weeks with this week’s theme? If you worked with gradients in the past, what
-  are other ways to demonstrate a shift? These are just some ideas to get started, in  addition to those in the Class Slides.
+  the quality of change gradual or uneven?
+- For example, can you make an interactive sketch that maps order to chaos based
+  on the mouse position, e.g. “order” on the left and “chaos” on the right
+  (prompt from _Code as a Creative Medium_)?
+- Can you extend an example or self-designed sketch from previous
+  weeks with this week’s theme?
+- If you worked with gradients in the past, what are other ways to demonstrate a
+  shift? (Remember that Rafaël Rozendaal, featured in Week 1, often works with
+  [gradients](https://www.newrafael.com/internet/).)
+- These are just some ideas to get started, in  addition to those in the Class
+  Slides.
 
 ### Part 3: Command Line Scavenger Hunt
 

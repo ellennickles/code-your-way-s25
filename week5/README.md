@@ -78,12 +78,12 @@ interactive, and/or combine it with a previous sketch.
     and/or our [Week 5 Class
     Slides](https://drive.google.com/drive/u/1/folders/1HC5g1BO8moptbtgz-JwVVv9DldnW3Q_U)
     from this week as references and try:
-    - Committing your changes as you develop your sketch.
-    - Creating at least one new branch to develop a version with a new
+  - Committing your changes as you develop your sketch.
+  - Creating at least one new branch to develop a version with a new
       feature  
-    - Switching back and forth between branches
-    - Merging one branch into another
-    - NOTE: As you work on your project in VS Code, saving changes there will
+  - Switching back and forth between branches
+  - Merging one branch into another
+  - NOTE: As you work on your project in VS Code, saving changes there will
       not be automatically added to your Git repository. To "save" changes to
       your Git repository, it's a two-step process in the terminal of (1)
       staging (adding) your modified files and then (2) committing them.

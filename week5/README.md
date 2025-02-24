@@ -98,9 +98,6 @@ interactive, and/or combine it with a previous sketch.
     Oscilloscope](https://www.drbillkolomyjec.com/artworks/generative-art-vending-machine/franke-s-oscilloscope)
     Be sure to click _Generate_ for new examples! See description for how to
     start with a pair of parametric equations.
-   - [Parametric
-    Equations](https://p5js.org/examples/math-parametric-equations.html) example
-    in the p5 Reference
    - [Coding Train Coding Challenge #12 — The Lorenz
     Attractor](https://thecodingtrain.com/challenges/12-lorenz-attractor) in
     Processing

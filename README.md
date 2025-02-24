@@ -25,7 +25,7 @@ of the Arts • Spring 2025
 | Feb 10 | Week 3 | [Pair Programming / GitHub Copilot / Iterative Patterns 1](https://github.com/ellennickles/code-your-way-s25/tree/main/week3) |
 | Feb 17 | No Class | Presidents’ Day |
 | Feb 18 | Week 4 | (Tuesday) [Version Control 1 / Iterative Patterns 2](https://github.com/ellennickles/code-your-way-s25/tree/main/week4) |
-| Feb 24 | Week 5 | Version Control 2 / Parametric Geometries |
+| Feb 24 | Week 5 | [Version Control 2 / Parametric Geometries](https://github.com/ellennickles/code-your-way-s25/tree/main/week5) |
 | Mar 3 | Week 6 | Version Control 3 / Refactoring |
 | Mar 10 | Week 7 | Version Control 4 / Project Planning |
 

@@ -81,7 +81,7 @@ interactive, and/or combine it with a previous sketch.
     - NOTE: Saving changes in VS Code does not automatically save them to your
       Git repository. To save changes in Git, you need to (1) stage (add) your
       modified files and then (2) commit them to the repository.
-4. Review Possible inspiration
+4. Review possible inspiration
    - Featured artists in the Class Slides
    - Classic Windows screensavers that do not use parametric equations but are
     adjacent to this week's creative

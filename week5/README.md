@@ -73,16 +73,14 @@ interactive, and/or combine it with a previous sketch.
   full screen screensaver. (Hmmm... coming full circle to Week 1's preloaders?)
   Further extend one of your modified examples above or combine some.
 2. Using the command line, navigate into the p5 project directory and
-    initialize it as a Git repository.
+    initialize it as a Git repository. (I generally recommend creating one folder per p5 project to initialize as a repo.)
 3. Use our [Git Intro](https://github.com/ellennickles/code-your-way-s25/blob/main/version-control-guides/git.md)
     and/or our [Week 5 Class
     Slides](https://drive.google.com/drive/u/1/folders/1HC5g1BO8moptbtgz-JwVVv9DldnW3Q_U)
-    from this week as references and try:
-    - Committing your changes as you develop your sketch.
-    - NOTE: As you work on your project in VS Code, saving changes there will
-      not be automatically added to your Git repository. To "save" changes to
-      your Git repository, it's a two-step process in the terminal of (1)
-      staging (adding) your modified files and then (2) committing them.
+    from this week as references and try committing your changes as you develop your sketch.
+    - NOTE: Saving changes in VS Code does not automatically save them to your
+      Git repository. To save changes in Git, you need to (1) stage (add) your
+      modified files and then (2) commit them to the repository.
 4. Review Possible inspiration
    - Featured artists in the Class Slides
    - Classic Windows screensavers that do not use parametric equations but are

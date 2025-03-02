@@ -102,7 +102,7 @@
   and practice more?
 - [Submit here](https://forms.gle/CJZMpMpTeDxpvWv18)
 
-### Next week
+### Part 3: Prep for next week
 
 - Next week, we'll practice pushing our code projects to GitHub. Be sure you
   have a [GitHub account](https://github.com/) (you likely set one up in Weeks 2

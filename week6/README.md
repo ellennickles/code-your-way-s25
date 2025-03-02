@@ -66,7 +66,7 @@
 - Challenge yourself to refactor a prior sketch that you really enjoyed but
   feels messy because you ran out or time, have a different understanding
   of how to implement programming concepts, and/or you have inklings that the
-  code could be written in more efficient ways, i.e. "bad smells"
+  code could be written in more efficient ways, e.g. "bad smells"
 - As you refactor, commit notable changes or milestones:
   - Look for repeating elements to convert into a loop, a function, or a class
     to make objects.
@@ -81,9 +81,31 @@
   
 ### Part 2: Document
 
-- Write a blog post that includes a link to your refactored code.
-- Describe and reflect on the changes you made and why you made them. How did it
-  go with Git this week? For all of it (including the coding part), where did
-  you get stuck, and what steps did you take troubleshoot? Anything that you
-  would like to explore and practice more?
+- Document your work that includes a link to your refactored code.
+  - Describe and reflect on the changes you made and why you made them.
+  - How did it go with Git this week? Try experimenting with Git branches—did
+    you create a branch to test changes before merging them? If so, how did it
+    help (or not)? If not, what might be a use case for branching in your future
+    work?
+  - Troubleshooting: Where did you get stuck—whether with Git, coding, or both?
+    What steps did you take to troubleshoot?
+  - AI Use: If you used GitHub Copilot (or another AI tool) for debugging,
+    refactoring, or generating code, reflect on how it influenced your process.
+    Where was it helpful, and where did it fall short?
+  - Next steps: What coding or Git-related techniques would you like to explore
+    and practice more?
 - [Submit here](https://forms.gle/CJZMpMpTeDxpvWv18)
+
+### Next week
+
+- Next week, we'll practice pushing our code projects to GitHub. Be sure you
+  have a [GitHub account](https://github.com/) (you likely set one up in Weeks 2
+  and 3), and consider signing up for the GitHub Student Developer Pack for free
+  benefits.
+- After that, we’ll transition to the second part of the course, where you'll
+  develop an independent project—or a series of smaller projects—of your choice.
+  This will be an opportunity to deepen your practice with the programming
+  concepts and strategies we've covered so far.
+- We’ll discuss independent projects in more detail next week, but start
+  brainstorming now! Come ready to share some early ideas informally when we
+  meet.

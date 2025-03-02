@@ -50,50 +50,56 @@
 
 - The ideas this week are to practice refactoring code that you have already
   written and to continue practicing version control with Git.
-- **Tip:** Refactor your code with Git branches! See the steps in this week's (or last week's) class slides. Consider installing the [Oh My Zsh shell
+- **Tip:** Refactor your code with Git branches! See the steps in this week's
+  (and last week's) class slides. Consider installing the [Oh My Zsh shell
   framework](https://github.com/ellennickles/code-your-way-s24/blob/main/version-control-guides/tips-and-tricks.md#oh-my-zsh) (if not already implemented) to automatically display
   when you are in a Git repository along with the current branch.
 
 ### Part 1: Refactor + Git Branches
 
-- Create a local directory with a p5 project, initialize it at as a [Git
-  repository](https://github.com/ellennickles/code-your-way-s25/blob/main/version-control-guides/git.md#create-a-git-repository),
-  and refactor a previous sketch so that the output is the same but
-  the the code has been restructured.
-- You can refactor a sketch from this course or another one. If your sketch is
-  in the p5 web editor, copy and paste the code into your local p5 project on
-  your computer.
-- Challenge yourself to refactor a prior sketch that you really enjoyed but
-  feels messy because you ran out or time, have a different understanding
-  of how to implement programming concepts, and/or you have inklings that the
-  code could be written in more efficient ways, e.g. "bad smells"
-- As you refactor, commit notable changes or milestones:
-  - Look for repeating elements to convert into a loop, a function, or a class
-    to make objects.
-  - Is there any unused code to remove?
-  - Can you make your code more readable? e.g. Any variables or functions to
-    rename so that someone else reading your code can follow along without
-    needing comments?
-  - Adding comments are okay too! Especially to reinforce YOUR understanding
-    of programming concepts and how your sketch works.
-  - If there’s a lot of code, can you organize separate into different
-    files? (See Coding Train video above)
+- Set Up Your Local Project
+  - Create a local directory for a p5.js project and initialize it as a [Git
+  repository](https://github.com/ellennickles/code-your-way-s25/blob/main/version-control-guides/git.md#create-a-git-repository).
+  - Choose a previous sketch (from this course or another) to refactor so that
+    the output remains the same, but the code is restructured for clarity and
+    efficiency.
+  - If your sketch is in the p5 web editor, copy and paste the code into your
+    local p5 project.
+- Refactor Your Sketch
+  - Challenge yourself to refactor a sketch you really enjoyed but found
+    messy—whether due to time constraints, evolving understanding of programming
+    concepts, or a hunch that it could be optimized (e.g., addressing "code
+    smells").
+  - As you refactor, commit notable changes or milestones. Consider:
+    - Reducing redundancy: Convert repeating elements into loops, functions, or
+      classes.
+    - Cleaning up unused code: Remove anything unnecessary.
+    - Improving readability: Rename variables/functions for clarity so others
+      can follow along without needing comments.
+    - Adding comments: Reinforce your understanding of programming concepts and
+      how your sketch works.
+    - Organizing files: If your project is large, separate code into different
+      files (see Coding Train video above).
+- Experiment with Git Branches
+  - Create at least one new Git branch to refactor part of your project
+  - Practice switching between your branch and the "main" branch.
+  - Merge your branch into "main" when you're ready.
   
 ### Part 2: Document
 
 - Document your work that includes a link to your refactored code.
-  - Describe and reflect on the changes you made and why you made them.
-  - How did it go with Git this week? Try experimenting with Git branches—did
-    you create a branch to test changes before merging them? If so, how did it
-    help (or not)? If not, what might be a use case for branching in your future
-    work?
-  - Troubleshooting: Where did you get stuck—whether with Git, coding, or both?
-    What steps did you take to troubleshoot?
-  - AI Use: If you used GitHub Copilot (or another AI tool) for debugging,
-    refactoring, or generating code, reflect on how it influenced your process.
-    Where was it helpful, and where did it fall short?
-  - Next steps: What coding or Git-related techniques would you like to explore
-    and practice more?
+- Describe and reflect on the changes you made and why you made them.
+- How did it go with Git this week? Try experimenting with Git branches—did
+  you create a branch to test changes before merging them? If so, how did it
+  help (or not)? If not, what might be a use case for branching in your future
+  work?
+- Troubleshooting: Where did you get stuck—whether with Git, coding, or both?
+  What steps did you take to troubleshoot?
+- AI Use: If you used GitHub Copilot (or another AI tool) for debugging,
+  refactoring, or generating code, reflect on how it influenced your process.
+  Where was it helpful, and where did it fall short?
+- Next steps: What coding or Git-related techniques would you like to explore
+  and practice more?
 - [Submit here](https://forms.gle/CJZMpMpTeDxpvWv18)
 
 ### Next week

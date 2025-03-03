@@ -71,14 +71,14 @@
     concepts, or a hunch that it could be optimized (e.g., addressing "code
     smells").
   - As you refactor, commit notable changes or milestones. Consider:
-    - Reducing redundancy: Convert repeating elements into loops, functions, or
+    - Reducing redundancy • Convert repeating elements into loops, functions, or
       classes.
-    - Cleaning up unused code: Remove anything unnecessary.
-    - Improving readability: Rename variables/functions for clarity so others
+    - Cleaning up unused code • Remove anything unnecessary.
+    - Improving readability • Rename variables/functions for clarity so others
       can follow along without needing comments.
-    - Adding comments: Reinforce your understanding of programming concepts and
+    - Adding comments • Reinforce your understanding of programming concepts and
       how your sketch works.
-    - Organizing files: If your project is large, separate code into different
+    - Organizing files • If your project is large, separate code into different
       files (see Coding Train video above).
 - Experiment with Git Branches
   - Create at least one new Git branch to refactor part of your project
@@ -87,7 +87,7 @@
   
 ### Part 2: Document
 
-- Document your work that includes a link to your refactored code.
+- Document your work that includes a link to your original AND refactored code.
 - Describe and reflect on the changes you made and why you made them.
 - How did it go with Git this week? Try experimenting with Git branches—did
   you create a branch to test changes before merging them? If so, how did it

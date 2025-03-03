@@ -26,7 +26,7 @@ of the Arts • Spring 2025
 | Feb 17 | No Class | Presidents’ Day |
 | Feb 18 | Week 4 | (Tuesday) [Version Control 1 / Iterative Patterns 2](https://github.com/ellennickles/code-your-way-s25/tree/main/week4) |
 | Feb 24 | Week 5 | [Version Control 2 / Parametric Geometries](https://github.com/ellennickles/code-your-way-s25/tree/main/week5) |
-| Mar 3 | Week 6 | Version Control 3 / Refactoring |
+| Mar 3 | Week 6 | [Version Control 3 / Refactoring](https://github.com/ellennickles/code-your-way-s25/tree/main/week6) |
 | Mar 10 | Week 7 | Version Control 4 / Project Planning |
 
 ### Part 2: Independent Project Development

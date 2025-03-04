@@ -9,20 +9,21 @@
   - [Exercise 3](https://editor.p5js.org/enickles/sketches/jwt-VWMOK)
 - Refactoring
   - [Example 1](https://editor.p5js.org/enickles/sketches/bykhIJSBj) /
-    [Refactored]() Link TBA
+    [Refactored](https://editor.p5js.org/enickles/sketches/MAj5MQ_yk) 
   - [Example 2](https://editor.p5js.org/enickles/sketches/EQscgAK2b) /
-    [Refactored]() Link TBA
+    [Refactored](https://editor.p5js.org/enickles/sketches/E0HRz9YjC) 
   - [Example 3](https://editor.p5js.org/enickles/sketches/OXhVBDVMk) /
-    [Refactored]() Link TBA
+    [Refactored](https://editor.p5js.org/enickles/sketches/_gTwYE_0i) 
   - [Example 4](https://editor.p5js.org/enickles/sketches/eG70VJ7aV)
-    - [Refactored part 1]() Link TBA
-    - [Refactored part 2]() Link TBA
-    - [Refactored part 3]() Link TBA
-      (refactored with generic random number generator and bounce functions
-      using the `return` keyword. "*[What are return
+    - [Refactored part 1](https://editor.p5js.org/enickles/sketches/r711FGdgE) - Create a class and instantiate two objects.
+    - [Refactored part 2](https://editor.p5js.org/enickles/sketches/z2_QBCX1D) - Use a loop in setup() to automate object creation.
+      In draw(), access the objects to display them, move them, and make them
+      bounce.
+    - [Refactored part 3](https://editor.p5js.org/enickles/sketches/p9M_8aom_) - Implement a generic bounce function that works for
+      all objects. This uses `return` keyword. "*[What are return
       values](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Building_blocks/Return_values)?
       Return values are just what they sound like — the values that a function
-      returns when it completes its task.*")
+      returns when it completes its task.*"
   - [Refactoring: Improving the Design of Existing Code, 2nd
     Edition](https://bobcat.library.nyu.edu/primo-explore/fulldisplay?docid=nyu_aleph005592882&context=L&vid=NYU&lang=en_US&search_scope=all&adaptor=Local%20Search%20Engine&isFrbr=true&tab=all&query=any,contains,martin%20fowler&sortby=date&facet=frbrgroupid,include,1149505003&mode=basic&offset=0)
     by Martin Fowler, especially “Chapter 2: Principles in Refactoring” and

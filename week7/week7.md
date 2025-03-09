@@ -40,8 +40,8 @@ Research your project idea, collect notes addressing the following prompts, and
 prepare to share your proposal in class next week:
 
 - Project Overview
-  - Ideas for a project title
-  - Provide a clear, concise description of your idea (max 100 words)
+  - Ideas for a project title?
+  - Provide a clear description of your idea (max 100 words).
   - What would you like to achieve by the end of this project?
   - Do you believe this project can realistically be completed within 7 weeks
     Explain why or why not, and describe your backup plan or possible
@@ -71,16 +71,18 @@ prepare to share your proposal in class next week:
       currently unsure about?
   - Identify specific areas or questions where you’d appreciate input, advice,
     or ideas from your peers.
+- [Submit your proposal here](https://forms.gle/CJZMpMpTeDxpvWv18)
 
-### Part 2: Document
+### Part 2: In-Class Presentation
 
 - Decide how to best present your proposal to the class in a way that clearly
-  communicates your main idea, goals, and questions. 
-- You have about **3 minutes** to share your proposal, so focus on highlighting
-  the most essential and engaging points. Consider addressing:
+  communicates your main idea, goals, and questions.
+- Prepare a concise presentation of your proposal (~3 minutes) for the class
+  next week, clearly communicating your main idea, goals, and key questions.
+  Focus on highlighting essential and engaging points, including:
   - What excites you most about your project?
   - What are your main uncertainties or challenges?
   - What specific areas would you like feedback or suggestions on?
 - Use this opportunity intentionally to gather constructive insights and
   practical advice that will help you advance your project effectively.
-- [Submit here](https://forms.gle/CJZMpMpTeDxpvWv18)
+  

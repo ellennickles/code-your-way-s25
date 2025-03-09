@@ -128,7 +128,7 @@ In order to use your SSH private key, add it to another program called the
    - Open your `~/.ssh/config` file, then modify the file to contain the
      following lines. This command expects that the [default text
      editor is configured to use Visual Studio
-     Code](https://github.com/ellennickles/code-your-way-s24/blob/main/version-control-guides/tips-and-tricks.md#shell-command):
+     Code](https://github.com/ellennickles/code-your-way-s25/blob/main/version-control-guides/tips-and-tricks.md#shell-command):
 
       ```ssh
       code ~/.ssh/config
@@ -256,7 +256,7 @@ others. (You can also make repositories on GitHub private.)
 
 1. Make sure you have a local Git repository. If you need to, refer to our Git
    Intro guide for how to [initialize a repository in a local p5 project
-   directory](https://github.com/ellennickles/code-your-way-s24/blob/main/version-control-guides/git.md#initialize-a-repository-in-a-local-p5-project-directory).
+   directory](https://github.com/ellennickles/code-your-way-s25/blob/main/version-control-guides/git.md#initialize-a-repository-in-a-local-p5-project-directory).
 
 2. In your GitHub.com account, create a **new repository**. (You'll connect your
    **local** repository to this new **remote** repository in a minute.) From

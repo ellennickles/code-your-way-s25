@@ -8,7 +8,10 @@
 ## Assignment
 
 The goal of this assignment is to begin working on your independent project by creating a "[Hello
-World](https://en.wikipedia.org/wiki/%22Hello,_World!%22_program)" version—a simple, foundational step that gets you started. Depending on your project, this can take different forms, but the idea is to **start doing and making** rather than getting stuck in over-planning.
+World](https://en.wikipedia.org/wiki/%22Hello,_World!%22_program)" version—a
+simple, foundational step that gets you started. Depending on your project, this
+can take different forms, but the idea is to **start doing and making** rather
+than getting stuck in over-planning everything.
 
 Your first attempt does not need to be polished, perfect, or even fully functional. Think of Anne Lamott’s "[Shitty First
 Drafts](https://wrd.as.uky.edu/sites/default/files/1-Shitty%20First%20Drafts.pdf)" from Bird by Bird—just get something down so you have something to build on.

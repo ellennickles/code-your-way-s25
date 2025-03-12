@@ -77,7 +77,7 @@ prepare to share your proposal in class next week:
 
 - Decide how to best present your proposal to the class in a way that clearly
   communicates your main idea, goals, and questions.
-- Prepare a concise presentation of your proposal (~4 minutes) for the class
+- Prepare a concise presentation of your proposal (~3 minutes) [UPDATED] for the class
   next week, clearly communicating your main idea, goals, and key questions.
   Focus on highlighting essential and engaging points, including:
   - What excites you most about your project?

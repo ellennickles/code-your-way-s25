@@ -7,6 +7,8 @@
 
 ## Assignment
 
+*Due the night of Sunday, March 30 (in two weeks)
+
 The goal of this assignment is to begin working on your independent project by creating a "[Hello
 World](https://en.wikipedia.org/wiki/%22Hello,_World!%22_program)" version—a
 simple, foundational step that gets you started. Depending on your project, this

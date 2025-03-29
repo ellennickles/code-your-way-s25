@@ -4,9 +4,6 @@
 
 - [Class
   Slides](https://drive.google.com/drive/u/1/folders/1HC5g1BO8moptbtgz-JwVVv9DldnW3Q_U)
-- [Dreaming
-  Accountability](https://leavingevidence.wordpress.com/2019/05/05/dreaming-accountability-dreaming-a-returning-to-ourselves-and-each-other/)
-  by Mia Mingus
 
 ## Assignment
 

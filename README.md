@@ -35,7 +35,7 @@ of the Arts • Spring 2025
 | :--- | :--- | :--- |
 | Mar 17 | Week 8 | [Project Proposals](https://github.com/ellennickles/code-your-way-s25/tree/main/week8)|
 | Mar 24 | No Class | Spring Break |
-| Mar 31 | Week 9 | Hello World |
+| Mar 31 | Week 9 | [Hello World](https://github.com/ellennickles/code-your-way-s25/tree/main/week9) |
 | Apr 7 | Week 10 | User Testing |
 | Apr 14 | Week 11 | Guest Feedback |
 | Apr 21 | Week 12 | Individual Meetings |

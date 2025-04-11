@@ -5,8 +5,10 @@
 ### Part 1: Schedule Your Individual Meeting (Zoom)
 
 - We will **not** meet as a class next Monday, April 24.
-- Instead, schedule a 15-minute individual Zoom meeting with Ellen to discuss
-  your project progress and timeline for the next two weeks.
+- Instead, schedule a 15-minute individual [Zoom
+  meeting](https://docs.google.com/document/d/15jmjbatOvFB-NEYRYbgZyn3UTbCKIoyqeH83OS8P0cM/edit?tab=t.0)
+  with Ellen to discuss your project progress and timeline for the next two
+  weeks.
 - The meeting is not primarily for troubleshooting technical issues, but we can
   certainly arrange a separate follow-up time if needed!
 - [Sign up
@@ -19,10 +21,10 @@ Continue making progress on your final project.
  To prepare for your individual
 meeting, complete the following:
 
-- Summarize Your Progress • Briefly outline what you have accomplished so far.
-- Define Your Two-Week Timeline • Clearly map out realistic, manageable goals
-  for the next two weeks leading up to your final project presentation by
-  addressing the following questions:
+- **Summarize Your Progress** • Briefly outline what you have accomplished so far.
+- **Define Your Two-Week Timeline** • As best you can, clearly map out
+  realistic, manageable goals for the next two weeks leading up to your final
+  project presentation by addressing the following questions:
   - What next steps are necessary to reach your goals?
   - What tasks will you accomplish, and by when?
   - What challenges or questions are you currently facing?

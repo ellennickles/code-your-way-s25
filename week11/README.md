@@ -4,7 +4,7 @@
 
 ### Part 1: Schedule Your Individual Meeting (Zoom)
 
-- We will **not** meet as a class next Monday, April 24.
+- We will **not** meet as a class next Monday, April 21.
 - Instead, schedule a 15-minute individual [Zoom
   meeting](https://docs.google.com/document/d/15jmjbatOvFB-NEYRYbgZyn3UTbCKIoyqeH83OS8P0cM/edit?tab=t.0)
   with Ellen to discuss your project progress and timeline for the next two

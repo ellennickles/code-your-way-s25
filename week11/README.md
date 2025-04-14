@@ -16,7 +16,7 @@
 
 ### Part 2: Project Progress and Two-Week Timeline
 
-Continue making progress on your final project.
+Continue making progress on your project.
 
  To prepare for your individual
 meeting, complete the following:
@@ -29,5 +29,6 @@ meeting, complete the following:
   - What tasks will you accomplish, and by when?
   - What challenges or questions are you currently facing?
   - What resources or support will you need?
-  - What specific feedback would be most helpful at this stage (conceptual, creative, or technical)?
+  - What specific feedback would be most helpful at this stage (conceptual,
+    creative, technical)?
 - [Submit your progress and timeline here](https://forms.gle/CJZMpMpTeDxpvWv18)

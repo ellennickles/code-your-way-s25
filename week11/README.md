@@ -18,8 +18,7 @@
 
 Continue making progress on your project.
 
- To prepare for your individual
-meeting, complete the following:
+To prepare for your individual meeting, please complete and submit the following by Sunday night, April 20:
 
 - **Summarize Your Progress** • Briefly outline what you have accomplished so far.
 - **Define Your Two-Week Timeline** • As best you can, clearly map out

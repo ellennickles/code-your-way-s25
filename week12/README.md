@@ -3,7 +3,7 @@
 ## Assignment
 
 - You’ve now got a plan for the next two (2) weeks. You know what to do. If you
-  discover you need to pivot as you work through the “how,” that’s totally okay.
+  find yourself needing to adjust your focus or strategy, that’s totally okay.
 - Next week’s class (Week 13) will be a flexible mix of in-class work time and
   user testing. You can choose to focus on one or the other, or a bit of both.
 - **The night before class, please submit a short project update that includes:**

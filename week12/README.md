@@ -11,5 +11,5 @@
   - What you aim to accomplish during next week's class time and also the final
     week of the semester
   - If you’re user testing: What are you testing, and why?
-  - If you’re working solo: What task or question are you focusing on?
+  - If you’re working solo: What task(s) or question(s) are you focusing on?
 - [Submit here](https://forms.gle/CJZMpMpTeDxpvWv18)

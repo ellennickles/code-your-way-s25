@@ -12,4 +12,4 @@
     week of the semester
   - If you’re user testing: What are you testing, and why?
   - If you’re working solo: What task or question are you focusing on?
-  - [Submit here](https://forms.gle/CJZMpMpTeDxpvWv18)
+- [Submit here](https://forms.gle/CJZMpMpTeDxpvWv18)

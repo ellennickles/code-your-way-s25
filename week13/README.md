@@ -1,6 +1,6 @@
 # Week 13 • Last Chance Workshop
 
-## In Class
+## References
 
 - [Class
   Slides](https://drive.google.com/drive/u/1/folders/1HC5g1BO8moptbtgz-JwVVv9DldnW3Q_U)

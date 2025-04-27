@@ -40,7 +40,7 @@ of the Arts • Spring 2025
 | Apr 14 | Week 11 | [Guest Feedback](https://github.com/ellennickles/code-your-way-s25/tree/main/week11) |
 | Apr 21 | Week 12 | [Individual Meetings](https://github.com/ellennickles/code-your-way-s25/tree/main/week12) |
 | Apr 28 | Week 13 | [Last Chance Workshop](https://github.com/ellennickles/code-your-way-s25/tree/main/week13) |
-| May 5 | Week 14 | Presentations |
+| May 5 | Week 14 | [Presentations](https://github.com/ellennickles/code-your-way-s25/tree/main/week14) |
 
 ## Syllabus
 

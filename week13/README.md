@@ -6,7 +6,7 @@
   Slides](https://drive.google.com/drive/u/1/folders/1HC5g1BO8moptbtgz-JwVVv9DldnW3Q_U)
 - [Course Evaluation](https://go.blueja.io/mAiCqTRvhEqJUD2sdaqaHw)
 
-## Assignment
+## Assignment due start of class, Monday, May 5:
 
 ### Part 1: Finish your project
 
